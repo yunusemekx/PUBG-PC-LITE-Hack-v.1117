@@ -36,7 +36,7 @@ CRTL + 0 - ON
 Run cheat as "ADMINISTRATOR"
 Turn OFF all your anti-virus and firewall.
 If cheat does not inject use this file : https://cdn.discordapp.com/attachments/766059875725082625/767880762141442088/Freeh4ck_Memory.cmd (This will fix the thing and restart your device)
-Make use you have up-to-date Microsoft Redistribution files.
+Make use you have up-to-date Microsoft Redistribution files. ( https://cdn.discordapp.com/attachments/765653097137438731/778932280826789909/unknown.png )
 
 If cheat gives you a error of blue screen the see this video : https://www.youtube.com/watch?v=sxouVcgCMmM
                                                                https://www.youtube.com/watch?v=EZvUEf_gB5U
