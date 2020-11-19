@@ -45,5 +45,3 @@ If you  get any other issues regarding cheat or anything join discord server : h
 
 Subsccribe to our YouTube Channel : https://www.youtube.com/channel/UC1bOkB_eCeUO9dadusGOdLw
 Support us by donating : https://www.paypal.com/paypalme/KnKCheats?locale.x=en_US
-
--Staff Member + Editor :  NEAR#8969
