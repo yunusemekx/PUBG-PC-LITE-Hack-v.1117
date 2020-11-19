@@ -1,5 +1,6 @@
 # PUBG-PC-LITE-Hack-v.1117
-PUBG PC LITE Hack ver.1117 UNDETECTED 
+PUBG PC LITE Hack ver.1117 
+STATUS : UNDETECTED 
 
 Watch before using cheat
 https://www.youtube.com/watch?v=vyPKH7iFTz4&feature=youtu.be
