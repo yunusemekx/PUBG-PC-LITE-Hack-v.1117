@@ -5,6 +5,8 @@ STATUS : UNDETECTED
 Watch before using cheat
 https://www.youtube.com/watch?v=vyPKH7iFTz4&feature=youtu.be
 
+Install this : http://www.mediafire.com/file/ogh5b9h3pbsd8jq/DirectX11.rar/file
+
 Run cheat as "ADMINISTRATOR"
 Turn OFF all your anti-virus and firewall.
 
