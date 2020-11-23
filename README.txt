@@ -1,7 +1,7 @@
 # PUBG-PC-LITE-Hack-v.1117
 PUBG PC LITE Hack ver.1117 
 Password : Check Password.txt for it!
-STATUS : UNDETECTED 
+STATUS : DETECTED 
 
 Watch before using cheat
 https://www.youtube.com/watch?v=vyPKH7iFTz4&feature=youtu.be
